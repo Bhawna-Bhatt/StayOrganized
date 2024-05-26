@@ -1,0 +1,39 @@
+.mymaincontainer{
+    background-color: mintcream
+
+}
+.mynavclass{
+    background-color:lightcyan;
+}
+
+.myfooter{
+    background-color: lightcyan;
+    font-family: Helvetica, sans-serif;
+    color:darkcyan;
+}
+.mybutton{
+    background-color:darkcyan;
+    
+}
+#mydropdownMenuItems {
+    background-color: darkcyan;
+    color:white
+    
+}
+
+.mytable,th,td{
+border:1px solid;
+background-color: cyan;
+color: white;
+}
+
+tr {
+    background-color: cyan;
+    color: white;
+}
+
+@media {
+    .mytodocontainer {
+        max-width: 800px;
+    }
+}
